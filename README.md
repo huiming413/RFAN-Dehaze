@@ -15,6 +15,4 @@ by Huiming Li
 python test.py
 ```
 
-### Pretrained model
 
-https://pan.baidu.com/s/12H_3d6g3kKurnO0mXnjo3g  password: ed86
